@@ -88,3 +88,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 更新：
 保持默认内容
+
+
+## 用户账号配置
+管理 -> 用户 -> 报警媒介
+添加报警媒介类型为zabbix2xxxtg_bot，收件人处填写chat_id。即可
